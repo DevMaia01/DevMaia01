@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo. Meu nome é Kauan.👨🏽‍💻🖐🏼💜
 
-#### Um pouquinho sobre mim: Moro em São Paulo. Estudante em desenvolvimento front-end e designer, criatividade e identidade são meu segundo nome. Hobbies, jogar video game, apreciar artes, estudar e me aventurar por aí...
+#### Um pouquinho sobre mim: Moro em São Paulo. Estudante em desenvolvimento front-end e designer, criatividade e identidade são meu segundo nome. Hobbies, jogar video game, apreciar artes, estudar, amo desafios e me aventurar por aí...
 
 <a href="https://www.linkedin.com/in/kauan-maia-908527203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
